@@ -1,4 +1,5 @@
-# s7-calculator
+# Vue3-S7-Calculator
+A calculator built to mimic the one found on a Samsung S7 in Vue 3.
 
 ## Project setup
 ```
