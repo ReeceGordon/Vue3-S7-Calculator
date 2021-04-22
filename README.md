@@ -1,5 +1,6 @@
 # Vue3-S7-Calculator
 A calculator built to mimic the one found on a Samsung S7 in Vue 3.
+Preview at: https://calculator.reecegordon.co.uk/
 
 ## Project setup
 ```
